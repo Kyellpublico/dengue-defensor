@@ -1,0 +1,15 @@
+# Ignore Data
+data/
+*.csv
+*.xlsx
+
+# Ignore System & Environment
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.env
+.DS_Store
+
+# Ignore IDE settings
+.vscode/
+.idea/
