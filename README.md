@@ -91,5 +91,5 @@ dengue-forecasting-ph/
 └── README.md
 ```
 ### 👨‍💻 Author
-**Edsequille Publico** 
+**Edsequille Publico** <br>
 *Aspiring AI/Machine Learning Engineer | Focused on AI for Social Good*
