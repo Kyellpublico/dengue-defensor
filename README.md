@@ -100,7 +100,6 @@ dengue-defensor/
 ├── .gitignore
 ├── README.md
 └── requirements.txt                         # Required Libraries
-
 ```
 ---
 ### 🔮 Future Work
