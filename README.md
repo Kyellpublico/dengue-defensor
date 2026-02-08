@@ -111,5 +111,5 @@ dengue-defensor/
 ---
 
 ### 👨‍💻 Author
-**Edsequille Publico**
+**Edsequille Publico** <br>
 *Associate AI Engineer (DataCamp Certified)*
