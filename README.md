@@ -4,7 +4,7 @@
 ### **Project Overview**
 Dengue fever affects thousands of Filipinos annually, costing the government millions in reactive healthcare. **Dengue-Defensor** is a Machine Learning initiative designed to shift the response from *reactive* to *proactive*.
 
-By analyzing 15 years of climate and disease surveillance data from **Project C-CHAIN**, this project compares **Classical ML (XGBoost/LightGBM)** against **Deep Learning (LSTM)** to find the most accurate forecasting method for **Davao City**.
+By analyzing 15 years of climate and disease surveillance data from **Project CCHAIN**, this project compares **Classical ML (XGBoost/LightGBM)** against **Deep Learning (LSTM)** to find the most accurate forecasting method for **Davao City**.
 
 The model predicts Dengue cases **1-8 weeks in advance**, giving Local Government Units (LGUs) critical lead time to mobilize resources before an outbreak peaks.
 
@@ -48,7 +48,6 @@ Due to the constraints of time-series data and the dataset size (weekly frequenc
 #### 📉 Forecast Visualization (LSTM)
 
 *> The graph below demonstrates the model's ability to track outbreak spikes (Red Dashed Line) against actual reported cases (Blue Line).*
-
 
 ![LSTM Forecast Chart](images/forecast_lstm.png)
 
