@@ -85,7 +85,7 @@ While effective, the current system has the following limitations:
 ```text
 dengue-defensor/
 │
-├── images/                                  # Plots & Visualizations# Plots & Visualizations
+├── images/                                  # Plots & Visualizations
 ├── models/
 │   ├── dengue_lstm_best.keras               # Trained Model
 │   └── dengue_xgboost_v1.pkl
