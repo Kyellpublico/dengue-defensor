@@ -99,7 +99,7 @@ dengue-defensor/
 │   └── 06-horizon-analysis.ipynb            # Feature Importance Shift
 ├── .gitignore
 ├── README.md
-└── requirements.txt                         # Required 
+└── requirements.txt                         # Required Libraries
 
 ```
 ---
